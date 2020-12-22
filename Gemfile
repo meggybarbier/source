@@ -28,6 +28,10 @@ gem 'bcrypt', '~> 3.1.7'
 # add in simple form
 gem 'simple_form'
 
+# add in our admin panel
+gem 'devise'
+gem 'activeadmin'
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
 
